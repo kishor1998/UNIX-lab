@@ -1,0 +1,4 @@
+under your repository name, click upload files.
+drag and drop the file or folder you'd like to upload to your repository onto the file tree.
+at the bottom of the page,type a short, meaningful commit message that describesthe change you made to the file.
+Below the commit message fields,decide whether to add your commit to the current branch or to a new branch. if your current branch is master, you should choose to create a new branch for your commit and then create a pull 
