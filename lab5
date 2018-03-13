@@ -13,7 +13,7 @@ do
 2] TO PERFORM ARITHMETIC OPERATIONS.
 
 echo 'Evaluation of Arithmetic expression' 
-echo ----------------------------------------------------- 
+echo 
 echo Enter the A value 
 read a
 echo  Enter the B value 
